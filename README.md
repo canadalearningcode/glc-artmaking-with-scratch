@@ -1,5 +1,9 @@
 #Girls Learning Code: Artmaking with Scratch
 
+Preview Facilitator Guide: https://ladieslearningcode.github.io/glc-artmaking-with-scratch/facilitator-guide.html
+
+Preview Slides: https://ladieslearningcode.github.io/glc-artmaking-with-scratch/slides.html
+
 HOW TO USE:
 ## Before the Workshop
 1 Week to Go
