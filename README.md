@@ -16,7 +16,7 @@ Youth Facilitator Handbook: <a href="http://bit.ly/youth-facilitator-handbook-do
 
 
 #HOW TO USE:
-## Before the Workshop
+##Before the Workshop
 1 Week to Go
 
 * Download this folder.
