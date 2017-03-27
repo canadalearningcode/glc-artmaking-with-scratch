@@ -1,6 +1,6 @@
-#Girls Learning Code: Artmaking with Scratch
+# Girls Learning Code: Artmaking with Scratch
 
-##Quick Links
+## Quick Links
 
 Preview Facilitator Guide: <a href="https://ladieslearningcode.github.io/glc-artmaking-with-scratch/facilitator-guide.html">ladieslearningcode.github.io/glc-artmaking-with-scratch/facilitator-guide.html</a>
 
@@ -8,15 +8,15 @@ Preview Slides: <a href="https://ladieslearningcode.github.io/glc-artmaking-with
 
 Activity List: <a href="http://bit.ly/scratch-activity-list">bit.ly/scratch-activity-list</a> (Artmaking tab)
 
-##Additional Resources (Optional)
+## Additional Resources (Optional)
 
 Unplugged Activities: <a href="http://bit.ly/unplugged-activities-doc">bit.ly/unplugged-activities-doc</a>
 
 Youth Facilitator Handbook: <a href="http://bit.ly/youth-facilitator-handbook-doc">bit.ly/youth-facilitator-handbook-doc</a>
 
 
-#HOW TO USE:
-##Before the Workshop
+# HOW TO USE:
+## Before the Workshop
 1 Week to Go
 
 * Download this folder.
